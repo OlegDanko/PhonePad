@@ -1,0 +1,6 @@
+[submodule "phonepad_host"]
+	path = phonepad_host
+	url = git@github.com:OlegDanko/phonepad_host.git
+[submodule "phonepad_device_android"]
+	path = phonepad_device_android
+	url = git@github.com:OlegDanko/phonepad_device_android.git
